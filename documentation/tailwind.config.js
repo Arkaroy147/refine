@@ -15,10 +15,9 @@ module.exports = {
                 tile: "6px 8px 16px 0 rgba(42, 42, 66, 0.4)",
                 integrationTile: "3px 4px 8px 0 rgba(42, 42, 66, 0.25)",
                 tagTile: "3px -2px 8px 0 rgba(42, 42, 66, 0.25)",
-                startTiles: "4px 8px 12px 0 rgba(0, 0, 0, 0.2)",
+                startTiles: "4px 8px 16px rgba(42, 42, 66, 0.25)",
             },
             screens: {
-                "2xl": "1280px",
                 short: { raw: "(max-height: 650px) and (min-width: 1024px)" },
             },
         },
